@@ -20,6 +20,10 @@
 *.mod
 *.smod
 
+# Folders
+build/
+.vscode/
+
 # Compiled Static libraries
 *.lai
 *.la
